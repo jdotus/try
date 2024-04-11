@@ -511,8 +511,6 @@ body .theme-button-one:hover {background:#000f32; }
   -webkit-transform:translateY(-50%);
           transform:translateY(-50%);
 }
-
-/* Carousel 3 dots in index.php,  */
 #theme-main-banner .camera_pag .camera_pag_ul li {
   display: block;
   margin: 15px 0;
@@ -522,7 +520,6 @@ body .theme-button-one:hover {background:#000f32; }
   border-width: 1px;
   background: transparent;
 }
-/* Color blue inside the carousel 3 dots */
 #theme-main-banner .camera_pag .camera_pag_ul li span {
   height: 100%;
   width: 100%;

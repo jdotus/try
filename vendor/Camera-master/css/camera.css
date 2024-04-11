@@ -227,6 +227,7 @@
 	text-align: left;
 	text-indent: 9999px;
 	width: 16px;
+	visibility: hidden;
 }
 .camera_commands_emboss .camera_pag .camera_pag_ul li {
 	-moz-box-shadow:
