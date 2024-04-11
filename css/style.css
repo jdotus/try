@@ -563,6 +563,13 @@ body .theme-button-one:hover {background:#000f32; }
   padding-top: 23px;
   margin-top: 33px;
 }
+.about-compnay h2 {
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 22px;
+}
+
 .about-compnay .mission-goal li {
   float: left;
   width: 33.33333333%;
