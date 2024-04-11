@@ -14,6 +14,12 @@
     padding-left: 0 !important;
     padding-right: 0 !important;
   }
+  #theme-main-banner {height: 550px !important;}
+  .img-size 
+  {
+    width: 100px;
+    height: 200px;
+  }
 }
 @media (max-width: 1199px) {
   .feature-banner .opacity h2 {padding: 0;}
@@ -99,7 +105,7 @@
   .shop-details .product-details .product-info {padding-top: 40px;}
   .theme-sidebar-one,.blog-sidebar {margin-top: 60px;}
   .contact-us-section .form-wrapper {height: auto;}
-  #theme-main-banner .camera_pag {left:112px;}
+  #theme-main-banner .camera_pag {left:25px;}
 } 
 /*(max-width: 991px)*/
 
